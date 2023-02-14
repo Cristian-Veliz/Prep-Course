@@ -1,5 +1,14 @@
 h1 {
-    color: blue;
+    color:white;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+   text-align: center;
 }
 
 img {
@@ -13,10 +22,25 @@ img {
     padding: 50px;
     border: 1px solid black;
     margin-top:40px ;
-    margin-left: 10px;
+    margin-left: 10px; 
+    position: absolute;
+    left: 300px;
 }
 
 #spanId {
     font-size: 18px;
     margin: 50px;
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+#fondo {
+background-image: url(https://www.creativosonline.org/wp-content/uploads/2021/10/crear-fondos-de-colores.jpg)
+}
+
+#enlace {
+    display: flex;
+    justify-content: center;
 }
