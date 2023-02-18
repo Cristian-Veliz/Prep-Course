@@ -36,11 +36,11 @@ img {
     
 }
 
-#fondo {
+body {
 background-image: url(https://www.creativosonline.org/wp-content/uploads/2021/10/crear-fondos-de-colores.jpg)
 }
 
-#enlace {
+a {
     display: flex;
     justify-content: center;
 }
